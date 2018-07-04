@@ -1,6 +1,6 @@
-##Viande farcie à la tomate farcie à la mozzarella
+## Viande farcie à la tomate farcie à la mozzarella
 
-#Info
+# Info
 Pour 1 personne
 
 - 300 g de viande hachée
@@ -9,7 +9,7 @@ Pour 1 personne
 - deux grande cuillère d'huile
 - 100 g de farine
 
-#Préparation
+# Préparation
 
 - couper la tomate et faire un chapeau
 - vider la tomate et manger l'interieur
